@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="330">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <text x="20" y="35" font-size="22" font-weight="bold" fill="#222">Customer Table</text>
+  <g font-family="Arial" font-size="16">
+    <rect x="20" y="55" width="660" height="45" fill="#263b50"/>
+    <g fill="white" font-weight="bold">
+      <text x="35" y="83">ID</text>
+      <text x="125" y="83">FirstName</text>
+      <text x="270" y="83">LastName</text>
+      <text x="410" y="83">Country</text>s
+      <text x="590" y="83">Score</text>
+    </g>
+    <g fill="#222">s
+      <rect x="20" y="100" width="660" height="42" fill="#eeeeee"/>
+      <text x="35" y="127">1</text><text x="125" y="127">Ayla</text><text x="270" y="127">Karimova</text><text x="410" y="127">Azerbaijan</text><text x="590" y="127">720</text>
+      <text x="35" y="169">2</text><text x="125" y="169">John</text><text x="270" y="169">Miller</text><text x="410" y="169">USA</text><text x="590" y="169">450</text>
+      <rect x="20" y="184" width="660" height="42" fill="#eeeeee"/>
+      <text x="35" y="211">3</text><text x="125" y="211">Emma</text><text x="270" y="211">Schmidt</text><text x="410" y="211">Germany</text><text x="590" y="211">860</text>
+      <text x="35" y="253">4</text><text x="125" y="253">Sara</text><text x="270" y="253">Martin</text><text x="410" y="253">France</text><text x="590" y="253">280</text>
+      <rect x="20" y="268" width="660" height="42" fill="#eeeeee"/>
+      <text x="35" y="295">5</text><text x="125" y="295">Lukas</text><text x="270" y="295">Weber</text><text x="410" y="295">Germany</text><text x="590" y="295">550</text>
+    </g>
+  </g>
+</svg>
